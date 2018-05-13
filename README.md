@@ -1,4 +1,4 @@
-## Test TravisCI : [![Build Status](https://travis-ci.org/Rilok/MockingJava.svg?branch=master)](https://travis-ci.org/Rilok/MockingJava)
+## Test TravisCI : [![Build Status](https://travis-ci.org/Rilok/TicTacToe-Testing.svg?branch=master)](https://travis-ci.org/Rilok/TicTacToe-Testing)
 
 # Testowanie aplikacji JAVA 2017-2018
 ## Projekt 1 (JUnit, narzędzie Hamcrest oraz MAVEN) 
