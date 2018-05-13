@@ -36,6 +36,7 @@ Ponadto dodatkowo pod uwagę będą brane następujące elementy:
 
 Ponadto pod ocenę jest brane również: (Brak tych elementów: -1 pkt za
 podpunkt od obowiązkowej punktacji zadania!)
+
 - Historia projektu w repozytorium.
 - Ocena opisu commitów 
 - Stan repozytorium (żeby nie był śmietnikiem!!!)
